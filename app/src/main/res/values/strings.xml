@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+
+    <string name="location_notification_title">"Tracking location…"</string>
+    <string name="location_notification_text_placeholder">Current location: </string>
+
+    <string name="location_text">Current location: (%1$s, %2$s)</string>
+
+    <string name="dialog_title">Permission required</string>
+    <string name="dialog_message">Permissions to access geolocation and notifications are required for the correct operation of the application\'s functionality.</string>
+    <string name="dialog_button_accept">OK</string>
+    <string name="dialog_button_open_settings">settings</string>
+    <string name="start_tracking">start tracking</string>
+    <string name="stop_tracking">stop tracking</string>
+</resources>
